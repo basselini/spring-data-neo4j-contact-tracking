@@ -9,7 +9,10 @@
 <br />
 <p align="center">
   <a href="https://github.com/basselini/spring-data-neo4j-contact-tracking">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo1.png" alt="Logo" width="auto" height="80">
+  </a>
+  <a href="https://github.com/basselini/spring-data-neo4j-contact-tracking">
+    <img src="images/logo2.png" alt="Logo" width="auto" height="80">
   </a>
 
   <h3 align="center">Spring Data Neo4j - Contact Tracking (very simple example)</h3>
@@ -45,7 +48,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]
+[product-screenshot]
 
 There are not many simple Spring Data Neo4j projects that map all the basic functionality. For this reason, I decided to provide this simple template to anyone who is taking their first steps with this framework.
 
