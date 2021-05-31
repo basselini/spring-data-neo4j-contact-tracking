@@ -11,6 +11,7 @@
   <a href="https://github.com/basselini/spring-data-neo4j-contact-tracking">
     <img src="images/logo1.png" alt="Logo" width="auto" height="80">
   </a>
+  </br>
   <a href="https://github.com/basselini/spring-data-neo4j-contact-tracking">
     <img src="images/logo2.png" alt="Logo" width="auto" height="80">
   </a>
@@ -110,16 +111,16 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 ## Contact
 
-Bassel Nasser - [@email] - bassel.nasser@haw-hamburg.de
+Bassel Nasser - bassel.nasser@haw-hamburg.de
 
 Project Link: [https://github.com/basselini/spring-data-neo4j-contact-tracking](https://github.com/basselini/spring-data-neo4j-contact-tracking)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/basselini/spring-data-neo4j-contact-tracking.svg?style=for-the-badge
 [forks-url]: https://github.com/basselini/spring-data-neo4j-contact-tracking/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/basselini/spring-data-neo4j-contact-tracking.svg?style=for-the-badge
 [stars-url]: https://github.com/basselini/spring-data-neo4j-contact-tracking/stargazers
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/bassel-nasser-9a8687185/
