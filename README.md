@@ -48,7 +48,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[product-screenshot]
+![product-screenshot]
 
 There are not many simple Spring Data Neo4j projects that map all the basic functionality. For this reason, I decided to provide this simple template to anyone who is taking their first steps with this framework.
 
